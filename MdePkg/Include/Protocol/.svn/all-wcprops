@@ -1,0 +1,977 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/edk2/!svn/ver/14009/trunk/edk2/MdePkg/Include/Protocol
+END
+ScsiIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/ScsiIo.h
+END
+StorageSecurityCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/12051/trunk/edk2/MdePkg/Include/Protocol/StorageSecurityCommand.h
+END
+DriverFamilyOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DriverFamilyOverride.h
+END
+HiiDatabase.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/HiiDatabase.h
+END
+IpSec.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/11074/trunk/edk2/MdePkg/Include/Protocol/IpSec.h
+END
+Dhcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Dhcp6.h
+END
+SerialIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SerialIo.h
+END
+DevicePathUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/10598/trunk/edk2/MdePkg/Include/Protocol/DevicePathUtilities.h
+END
+SmmSxDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmSxDispatch2.h
+END
+DevicePath.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/12574/trunk/edk2/MdePkg/Include/Protocol/DevicePath.h
+END
+SmmCommunication.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/12724/trunk/edk2/MdePkg/Include/Protocol/SmmCommunication.h
+END
+SimpleTextInEx.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/13565/trunk/edk2/MdePkg/Include/Protocol/SimpleTextInEx.h
+END
+Variable.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Variable.h
+END
+IpSecConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/11762/trunk/edk2/MdePkg/Include/Protocol/IpSecConfig.h
+END
+UserCredential2.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/12570/trunk/edk2/MdePkg/Include/Protocol/UserCredential2.h
+END
+DriverSupportedEfiVersion.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DriverSupportedEfiVersion.h
+END
+Capsule.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Capsule.h
+END
+AcpiSystemDescriptionTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/10672/trunk/edk2/MdePkg/Include/Protocol/AcpiSystemDescriptionTable.h
+END
+HiiFont.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/HiiFont.h
+END
+SmmAccess2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmAccess2.h
+END
+SmmPciRootBridgeIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmPciRootBridgeIo.h
+END
+SmmPowerButtonDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmPowerButtonDispatch2.h
+END
+ReportStatusCodeHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/ReportStatusCodeHandler.h
+END
+UserCredential.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/12529/trunk/edk2/MdePkg/Include/Protocol/UserCredential.h
+END
+Tcp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Tcp6.h
+END
+Mtftp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/11762/trunk/edk2/MdePkg/Include/Protocol/Mtftp6.h
+END
+PciPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/PciPlatform.h
+END
+GraphicsOutput.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/13598/trunk/edk2/MdePkg/Include/Protocol/GraphicsOutput.h
+END
+BlockIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/11691/trunk/edk2/MdePkg/Include/Protocol/BlockIo.h
+END
+DriverConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DriverConfiguration.h
+END
+Runtime.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Runtime.h
+END
+SmmConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmConfiguration.h
+END
+Cpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/11694/trunk/edk2/MdePkg/Include/Protocol/Cpu.h
+END
+ScsiPassThru.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/ScsiPassThru.h
+END
+Smbios.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/12747/trunk/edk2/MdePkg/Include/Protocol/Smbios.h
+END
+SmmGpiDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmGpiDispatch2.h
+END
+Ip6.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Ip6.h
+END
+AtaPassThru.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/AtaPassThru.h
+END
+SmbusHc.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/12733/trunk/edk2/MdePkg/Include/Protocol/SmbusHc.h
+END
+BlockIo2.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/11607/trunk/edk2/MdePkg/Include/Protocol/BlockIo2.h
+END
+S3SaveState.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/12690/trunk/edk2/MdePkg/Include/Protocol/S3SaveState.h
+END
+Metronome.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Metronome.h
+END
+Eap.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/13504/trunk/edk2/MdePkg/Include/Protocol/Eap.h
+END
+PciOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/PciOverride.h
+END
+SmmCpuIo2.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmCpuIo2.h
+END
+StatusCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/StatusCode.h
+END
+Udp6.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Udp6.h
+END
+AbsolutePointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/13504/trunk/edk2/MdePkg/Include/Protocol/AbsolutePointer.h
+END
+IncompatiblePciDeviceSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/IncompatiblePciDeviceSupport.h
+END
+HiiConfigAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/11687/trunk/edk2/MdePkg/Include/Protocol/HiiConfigAccess.h
+END
+Reset.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Reset.h
+END
+DiskIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DiskIo.h
+END
+SmmReportStatusCodeHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmReportStatusCodeHandler.h
+END
+DriverBinding.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DriverBinding.h
+END
+VlanConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/VlanConfig.h
+END
+DeviceIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DeviceIo.h
+END
+Ebc.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Ebc.h
+END
+IdeControllerInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/12704/trunk/edk2/MdePkg/Include/Protocol/IdeControllerInit.h
+END
+DebugPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DebugPort.h
+END
+SmmStatusCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmStatusCode.h
+END
+ExtendedSalServiceClasses.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/ExtendedSalServiceClasses.h
+END
+PlatformDriverOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/11985/trunk/edk2/MdePkg/Include/Protocol/PlatformDriverOverride.h
+END
+HiiString.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/11762/trunk/edk2/MdePkg/Include/Protocol/HiiString.h
+END
+LoadFile2.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/LoadFile2.h
+END
+EapManagement.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/EapManagement.h
+END
+SimpleNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10490/trunk/edk2/MdePkg/Include/Protocol/SimpleNetwork.h
+END
+DriverConfiguration2.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DriverConfiguration2.h
+END
+DiskInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DiskInfo.h
+END
+ManagedNetwork.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/ManagedNetwork.h
+END
+HiiConfigRouting.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/11086/trunk/edk2/MdePkg/Include/Protocol/HiiConfigRouting.h
+END
+SmmEndOfDxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/14009/trunk/edk2/MdePkg/Include/Protocol/SmmEndOfDxe.h
+END
+HiiImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/HiiImage.h
+END
+ScsiPassThruExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/ScsiPassThruExt.h
+END
+Ftp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/11762/trunk/edk2/MdePkg/Include/Protocol/Ftp4.h
+END
+SmmIoTrapDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmIoTrapDispatch2.h
+END
+TapeIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/TapeIo.h
+END
+PxeBaseCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/PxeBaseCode.h
+END
+Hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/13504/trunk/edk2/MdePkg/Include/Protocol/Hash.h
+END
+DriverDiagnostics.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/12825/trunk/edk2/MdePkg/Include/Protocol/DriverDiagnostics.h
+END
+FormBrowser2.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/11687/trunk/edk2/MdePkg/Include/Protocol/FormBrowser2.h
+END
+UgaDraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/UgaDraw.h
+END
+McaInitPmi.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/McaInitPmi.h
+END
+UsbHostController.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/UsbHostController.h
+END
+SmmReadyToLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmReadyToLock.h
+END
+Dhcp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Dhcp4.h
+END
+Decompress.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Decompress.h
+END
+ExtendedSalBootService.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/ExtendedSalBootService.h
+END
+Pcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Pcd.h
+END
+FirmwareManagement.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/11762/trunk/edk2/MdePkg/Include/Protocol/FirmwareManagement.h
+END
+EdidDiscovered.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/13552/trunk/edk2/MdePkg/Include/Protocol/EdidDiscovered.h
+END
+Bis.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Bis.h
+END
+RealTimeClock.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/RealTimeClock.h
+END
+SmmControl2.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/12743/trunk/edk2/MdePkg/Include/Protocol/SmmControl2.h
+END
+HiiPackageList.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/HiiPackageList.h
+END
+Ip4Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Ip4Config.h
+END
+AcpiTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/12193/trunk/edk2/MdePkg/Include/Protocol/AcpiTable.h
+END
+Ip6Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/11762/trunk/edk2/MdePkg/Include/Protocol/Ip6Config.h
+END
+Security2.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/13658/trunk/edk2/MdePkg/Include/Protocol/Security2.h
+END
+Kms.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/12025/trunk/edk2/MdePkg/Include/Protocol/Kms.h
+END
+LegacyRegion2.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/LegacyRegion2.h
+END
+SimplePointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SimplePointer.h
+END
+LoadedImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/LoadedImage.h
+END
+ServiceBinding.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/11933/trunk/edk2/MdePkg/Include/Protocol/ServiceBinding.h
+END
+MpService.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/MpService.h
+END
+IScsiInitiatorName.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/11762/trunk/edk2/MdePkg/Include/Protocol/IScsiInitiatorName.h
+END
+DxeSmmReadyToLock.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DxeSmmReadyToLock.h
+END
+VariableWrite.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/VariableWrite.h
+END
+WatchdogTimer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/WatchdogTimer.h
+END
+PciIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/11204/trunk/edk2/MdePkg/Include/Protocol/PciIo.h
+END
+PciHostBridgeResourceAllocation.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/PciHostBridgeResourceAllocation.h
+END
+DriverDiagnostics2.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/11933/trunk/edk2/MdePkg/Include/Protocol/DriverDiagnostics2.h
+END
+SmmSwDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/13463/trunk/edk2/MdePkg/Include/Protocol/SmmSwDispatch2.h
+END
+Bds.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Bds.h
+END
+UserManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/12569/trunk/edk2/MdePkg/Include/Protocol/UserManager.h
+END
+Tcp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/12193/trunk/edk2/MdePkg/Include/Protocol/Tcp4.h
+END
+SmmPeriodicTimerDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmPeriodicTimerDispatch2.h
+END
+Mtftp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/11762/trunk/edk2/MdePkg/Include/Protocol/Mtftp4.h
+END
+LoadFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/LoadFile.h
+END
+Arp.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Arp.h
+END
+DebugSupport.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DebugSupport.h
+END
+DeferredImageLoad.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DeferredImageLoad.h
+END
+SuperIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/10807/trunk/edk2/MdePkg/Include/Protocol/SuperIo.h
+END
+PciHotPlugRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/PciHotPlugRequest.h
+END
+UnicodeCollation.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/12825/trunk/edk2/MdePkg/Include/Protocol/UnicodeCollation.h
+END
+AuthenticationInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/12013/trunk/edk2/MdePkg/Include/Protocol/AuthenticationInfo.h
+END
+Ip4.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Ip4.h
+END
+EdidActive.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/13552/trunk/edk2/MdePkg/Include/Protocol/EdidActive.h
+END
+CpuIo2.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/CpuIo2.h
+END
+ComponentName.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/11933/trunk/edk2/MdePkg/Include/Protocol/ComponentName.h
+END
+EdidOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/EdidOverride.h
+END
+PciEnumerationComplete.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/PciEnumerationComplete.h
+END
+Udp4.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Udp4.h
+END
+Timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Timer.h
+END
+SimpleTextOut.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SimpleTextOut.h
+END
+FirmwareVolume2.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/FirmwareVolume2.h
+END
+GuidedSectionExtraction.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/GuidedSectionExtraction.h
+END
+PlatformToDriverConfiguration.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/edk2/!svn/ver/11933/trunk/edk2/MdePkg/Include/Protocol/PlatformToDriverConfiguration.h
+END
+SimpleFileSystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/11874/trunk/edk2/MdePkg/Include/Protocol/SimpleFileSystem.h
+END
+TcgService.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/TcgService.h
+END
+PxeBaseCodeCallBack.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/PxeBaseCodeCallBack.h
+END
+PiPcd.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/PiPcd.h
+END
+PciHotPlugInit.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/PciHotPlugInit.h
+END
+SmmCpu.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/13374/trunk/edk2/MdePkg/Include/Protocol/SmmCpu.h
+END
+UgaIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/UgaIo.h
+END
+MonotonicCounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/MonotonicCounter.h
+END
+DevicePathFromText.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DevicePathFromText.h
+END
+Security.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/Security.h
+END
+SmmUsbDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmUsbDispatch2.h
+END
+SmmBase2.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmBase2.h
+END
+BusSpecificDriverOverride.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/BusSpecificDriverOverride.h
+END
+NetworkInterfaceIdentifier.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/12560/trunk/edk2/MdePkg/Include/Protocol/NetworkInterfaceIdentifier.h
+END
+Usb2HostController.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/12184/trunk/edk2/MdePkg/Include/Protocol/Usb2HostController.h
+END
+FirmwareVolumeBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/11361/trunk/edk2/MdePkg/Include/Protocol/FirmwareVolumeBlock.h
+END
+SmmStandbyButtonDispatch2.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SmmStandbyButtonDispatch2.h
+END
+DriverHealth.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/11305/trunk/edk2/MdePkg/Include/Protocol/DriverHealth.h
+END
+UsbIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/UsbIo.h
+END
+S3SmmSaveState.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/S3SmmSaveState.h
+END
+PciRootBridgeIo.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/11848/trunk/edk2/MdePkg/Include/Protocol/PciRootBridgeIo.h
+END
+DevicePathToText.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/DevicePathToText.h
+END
+SimpleTextIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/11612/trunk/edk2/MdePkg/Include/Protocol/SimpleTextIn.h
+END
+ComponentName2.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/11933/trunk/edk2/MdePkg/Include/Protocol/ComponentName2.h
+END
+SecurityPolicy.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Protocol/SecurityPolicy.h
+END

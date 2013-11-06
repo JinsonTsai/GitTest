@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/12206/trunk/edk2/MdePkg/Library/BaseTimerLibNullTemplate
+END
+TimerLibNull.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/edk2/!svn/ver/12206/trunk/edk2/MdePkg/Library/BaseTimerLibNullTemplate/TimerLibNull.c
+END
+BaseTimerLibNullTemplate.inf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseTimerLibNullTemplate/BaseTimerLibNullTemplate.inf
+END

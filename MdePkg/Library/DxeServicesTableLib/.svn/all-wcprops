@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/12762/trunk/edk2/MdePkg/Library/DxeServicesTableLib
+END
+DxeServicesTableLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib.c
+END
+DxeServicesTableLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/edk2/!svn/ver/12762/trunk/edk2/MdePkg/Library/DxeServicesTableLib/DxeServicesTableLib.inf
+END

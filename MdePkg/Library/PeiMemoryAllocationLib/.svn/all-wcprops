@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10615/trunk/edk2/MdePkg/Library/PeiMemoryAllocationLib
+END
+MemoryAllocationLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/edk2/!svn/ver/10615/trunk/edk2/MdePkg/Library/PeiMemoryAllocationLib/MemoryAllocationLib.c
+END
+PeiMemoryAllocationLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiMemoryAllocationLib/PeiMemoryAllocationLib.inf
+END

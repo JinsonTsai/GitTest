@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/14383/trunk/edk2/MdePkg/Include/IndustryStandard
+END
+SmBus.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/SmBus.h
+END
+UefiTcgPlatform.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/13970/trunk/edk2/MdePkg/Include/IndustryStandard/UefiTcgPlatform.h
+END
+Atapi.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/13346/trunk/edk2/MdePkg/Include/IndustryStandard/Atapi.h
+END
+Tpm12.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10499/trunk/edk2/MdePkg/Include/IndustryStandard/Tpm12.h
+END
+IScsiBootFirmwareTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/IScsiBootFirmwareTable.h
+END
+AcpiAml.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/12802/trunk/edk2/MdePkg/Include/IndustryStandard/AcpiAml.h
+END
+WatchdogActionTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/WatchdogActionTable.h
+END
+SerialPortConsoleRedirectionTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svnroot/edk2/!svn/ver/13790/trunk/edk2/MdePkg/Include/IndustryStandard/SerialPortConsoleRedirectionTable.h
+END
+PeImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10912/trunk/edk2/MdePkg/Include/IndustryStandard/PeImage.h
+END
+AlertStandardFormatTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/AlertStandardFormatTable.h
+END
+Pci.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/14383/trunk/edk2/MdePkg/Include/IndustryStandard/Pci.h
+END
+Pal.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/13831/trunk/edk2/MdePkg/Include/IndustryStandard/Pal.h
+END
+Pci30.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/13919/trunk/edk2/MdePkg/Include/IndustryStandard/Pci30.h
+END
+Acpi20.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/12802/trunk/edk2/MdePkg/Include/IndustryStandard/Acpi20.h
+END
+Bmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/12662/trunk/edk2/MdePkg/Include/IndustryStandard/Bmp.h
+END
+Sal.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/Sal.h
+END
+WatchdogResourceTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/WatchdogResourceTable.h
+END
+Acpi40.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/12802/trunk/edk2/MdePkg/Include/IndustryStandard/Acpi40.h
+END
+DebugPort2Table.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/13818/trunk/edk2/MdePkg/Include/IndustryStandard/DebugPort2Table.h
+END
+LegacyBiosMpTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/11446/trunk/edk2/MdePkg/Include/IndustryStandard/LegacyBiosMpTable.h
+END
+Usb.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/Usb.h
+END
+SmBios.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/12887/trunk/edk2/MdePkg/Include/IndustryStandard/SmBios.h
+END
+MemoryMappedConfigurationSpaceAccessTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/MemoryMappedConfigurationSpaceAccessTable.h
+END
+ElTorito.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/ElTorito.h
+END
+Scsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/11691/trunk/edk2/MdePkg/Include/IndustryStandard/Scsi.h
+END
+DebugPortTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/13818/trunk/edk2/MdePkg/Include/IndustryStandard/DebugPortTable.h
+END
+HighPrecisionEventTimerTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/HighPrecisionEventTimerTable.h
+END
+Acpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/12802/trunk/edk2/MdePkg/Include/IndustryStandard/Acpi.h
+END
+Acpi10.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/12802/trunk/edk2/MdePkg/Include/IndustryStandard/Acpi10.h
+END
+SdramSpd.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/SdramSpd.h
+END
+Acpi30.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/12802/trunk/edk2/MdePkg/Include/IndustryStandard/Acpi30.h
+END
+Pci22.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/13919/trunk/edk2/MdePkg/Include/IndustryStandard/Pci22.h
+END
+Pci23.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/13919/trunk/edk2/MdePkg/Include/IndustryStandard/Pci23.h
+END
+Mbr.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/Mbr.h
+END
+Acpi50.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/13804/trunk/edk2/MdePkg/Include/IndustryStandard/Acpi50.h
+END
+PciCodeId.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/13919/trunk/edk2/MdePkg/Include/IndustryStandard/PciCodeId.h
+END
+PciExpress21.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/IndustryStandard/PciExpress21.h
+END

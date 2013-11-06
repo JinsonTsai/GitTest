@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/edk2/!svn/ver/13183/trunk/edk2/MdePkg/Library/BaseLib/Ipf
+END
+InternalFlushCacheRange.s
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/InternalFlushCacheRange.s
+END
+AccessPmr.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AccessPmr.s
+END
+Ia64gen.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/Ia64gen.h
+END
+AccessMsr.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AccessMsr.s
+END
+CpuPause.s
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/CpuPause.s
+END
+AccessKr7.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AccessKr7.s
+END
+CpuBreakpoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/CpuBreakpoint.c
+END
+AccessPsr.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AccessPsr.s
+END
+Unaligned.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/Unaligned.c
+END
+SwitchStack.s
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/13183/trunk/edk2/MdePkg/Library/BaseLib/Ipf/SwitchStack.s
+END
+AccessGp.s
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AccessGp.s
+END
+CpuBreakpointMsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/CpuBreakpointMsc.c
+END
+AccessMsrDb.s
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AccessMsrDb.s
+END
+AccessDbr.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AccessDbr.s
+END
+AccessGcr.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AccessGcr.s
+END
+ExecFc.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/ExecFc.s
+END
+GetInterruptState.s
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/GetInterruptState.s
+END
+AccessKr.s
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AccessKr.s
+END
+ReadAr.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/ReadAr.s
+END
+ReadCpuid.s
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/ReadCpuid.s
+END
+ReadCr.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/ReadCr.s
+END
+FlushCacheRange.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/FlushCacheRange.c
+END
+SetJmp.s
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/SetJmp.s
+END
+AsmCpuMisc.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AsmCpuMisc.s
+END
+AccessEicr.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AccessEicr.s
+END
+InternalSwitchStack.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/InternalSwitchStack.c
+END
+Asm.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/Asm.h
+END
+LongJmp.s
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/LongJmp.s
+END
+AsmPalCall.s
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10594/trunk/edk2/MdePkg/Library/BaseLib/Ipf/AsmPalCall.s
+END

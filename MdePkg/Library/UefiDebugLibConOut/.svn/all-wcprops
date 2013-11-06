@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/13691/trunk/edk2/MdePkg/Library/UefiDebugLibConOut
+END
+UefiDebugLibConOut.inf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/edk2/!svn/ver/11365/trunk/edk2/MdePkg/Library/UefiDebugLibConOut/UefiDebugLibConOut.inf
+END
+DebugLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/13691/trunk/edk2/MdePkg/Library/UefiDebugLibConOut/DebugLib.c
+END

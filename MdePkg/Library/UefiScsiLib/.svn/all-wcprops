@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/edk2/!svn/ver/11691/trunk/edk2/MdePkg/Library/UefiScsiLib
+END
+UefiScsiLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/11691/trunk/edk2/MdePkg/Library/UefiScsiLib/UefiScsiLib.c
+END
+UefiScsiLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/UefiScsiLib/UefiScsiLib.inf
+END

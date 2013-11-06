@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/DxePciLibEsal
+END
+DxePciLibEsal.inf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/11784/trunk/edk2/MdePkg/Library/DxePciLibEsal/DxePciLibEsal.inf
+END
+PciLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/DxePciLibEsal/PciLib.c
+END

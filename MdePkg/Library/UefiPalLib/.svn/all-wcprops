@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/UefiPalLib
+END
+UefiPalLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/UefiPalLib/UefiPalLib.inf
+END
+UefiPalLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/UefiPalLib/UefiPalLib.c
+END

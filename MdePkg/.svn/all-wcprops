@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svnroot/edk2/!svn/ver/14395/trunk/edk2/MdePkg
+END
+MdePkg.dsc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/edk2/!svn/ver/12844/trunk/edk2/MdePkg/MdePkg.dsc
+END
+Contributions.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/edk2/!svn/ver/13187/trunk/edk2/MdePkg/Contributions.txt
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/edk2/!svn/ver/13213/trunk/edk2/MdePkg/License.txt
+END
+MdePkg.dec
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/edk2/!svn/ver/14009/trunk/edk2/MdePkg/MdePkg.dec
+END

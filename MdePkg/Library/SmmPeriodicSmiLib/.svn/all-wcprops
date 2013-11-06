@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/12173/trunk/edk2/MdePkg/Library/SmmPeriodicSmiLib
+END
+SmmPeriodicSmiLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/edk2/!svn/ver/11302/trunk/edk2/MdePkg/Library/SmmPeriodicSmiLib/SmmPeriodicSmiLib.inf
+END
+SmmPeriodicSmiLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/12173/trunk/edk2/MdePkg/Library/SmmPeriodicSmiLib/SmmPeriodicSmiLib.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/BasePciLibPciExpress
+END
+PciLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/BasePciLibPciExpress/PciLib.c
+END
+BasePciLibPciExpress.inf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePciLibPciExpress/BasePciLibPciExpress.inf
+END

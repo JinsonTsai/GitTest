@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/12297/trunk/edk2/MdePkg/Library/DxeTimerLibEsal
+END
+DxeTimerLibEsal.inf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/edk2/!svn/ver/11784/trunk/edk2/MdePkg/Library/DxeTimerLibEsal/DxeTimerLibEsal.inf
+END
+DxeTimerLibEsal.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/12297/trunk/edk2/MdePkg/Library/DxeTimerLibEsal/DxeTimerLibEsal.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svnroot/edk2/!svn/ver/14383/trunk/edk2/MdePkg/Include
+END
+PiDxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/PiDxe.h
+END
+Base.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/edk2/!svn/ver/13067/trunk/edk2/MdePkg/Include/Base.h
+END
+PiSmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/edk2/!svn/ver/11330/trunk/edk2/MdePkg/Include/PiSmm.h
+END
+PiPei.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/PiPei.h
+END
+Uefi.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Uefi.h
+END

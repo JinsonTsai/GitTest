@@ -1,0 +1,581 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/edk2/!svn/ver/14037/trunk/edk2/MdePkg/Library/BaseLib/X64
+END
+Invd.asm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/Invd.asm
+END
+ReadCs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadCs.asm
+END
+ReadLdtr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadLdtr.asm
+END
+CpuId.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/CpuId.asm
+END
+ReadGs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadGs.asm
+END
+SetJump.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/SetJump.S
+END
+WriteGdtr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteGdtr.asm
+END
+LongJump.S
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/LongJump.S
+END
+FxRestore.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/FxRestore.asm
+END
+ReadDr0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadDr0.asm
+END
+ReadSs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadSs.asm
+END
+Thunk16.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/14037/trunk/edk2/MdePkg/Library/BaseLib/X64/Thunk16.S
+END
+ReadDr1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadDr1.asm
+END
+CpuIdEx.S
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/CpuIdEx.S
+END
+ReadDr2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadDr2.asm
+END
+ReadDr3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadDr3.asm
+END
+Non-existing.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10596/trunk/edk2/MdePkg/Library/BaseLib/X64/Non-existing.c
+END
+ReadDr4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadDr4.asm
+END
+DisablePaging64.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/DisablePaging64.S
+END
+ReadDr5.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadDr5.asm
+END
+EnableInterrupts.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/EnableInterrupts.asm
+END
+ReadDr6.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadDr6.asm
+END
+Monitor.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/Monitor.asm
+END
+SetJump.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/SetJump.asm
+END
+ReadDr7.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadDr7.asm
+END
+LongJump.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/LongJump.asm
+END
+ReadGdtr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadGdtr.asm
+END
+EnableDisableInterrupts.S
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/EnableDisableInterrupts.S
+END
+EnableCache.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/EnableCache.S
+END
+WriteDr0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteDr0.asm
+END
+WriteDr1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteDr1.asm
+END
+CpuIdEx.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/CpuIdEx.asm
+END
+WriteDr2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteDr2.asm
+END
+ReadDs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadDs.asm
+END
+WriteDr3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteDr3.asm
+END
+DisablePaging64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/DisablePaging64.asm
+END
+WriteDr4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteDr4.asm
+END
+WriteDr5.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteDr5.asm
+END
+WriteDr6.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteDr6.asm
+END
+CpuBreakpoint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/CpuBreakpoint.asm
+END
+WriteDr7.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteDr7.asm
+END
+SwitchStack.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/12007/trunk/edk2/MdePkg/Library/BaseLib/X64/SwitchStack.S
+END
+Wbinvd.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/Wbinvd.S
+END
+ReadPmc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadPmc.asm
+END
+FlushCacheLine.asm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/FlushCacheLine.asm
+END
+ReadTr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadTr.asm
+END
+CpuPause.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/CpuPause.asm
+END
+ReadMm0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadMm0.asm
+END
+WriteMsr64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteMsr64.asm
+END
+CpuId.S
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/CpuId.S
+END
+ReadMm1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadMm1.asm
+END
+SwitchStack.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/SwitchStack.asm
+END
+ReadMm2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadMm2.asm
+END
+ReadMm3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadMm3.asm
+END
+Wbinvd.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/Wbinvd.asm
+END
+ReadMm4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadMm4.asm
+END
+ReadMm5.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadMm5.asm
+END
+ReadMm6.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadMm6.asm
+END
+ReadMm7.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadMm7.asm
+END
+GccInline.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/GccInline.c
+END
+DisableInterrupts.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/DisableInterrupts.asm
+END
+ReadEs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadEs.asm
+END
+WriteMm0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteMm0.asm
+END
+WriteMm1.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteMm1.asm
+END
+WriteMm2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteMm2.asm
+END
+WriteMm3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteMm3.asm
+END
+WriteMm4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteMm4.asm
+END
+WriteMm5.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteMm5.asm
+END
+WriteMm6.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteMm6.asm
+END
+WriteMm7.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteMm7.asm
+END
+WriteIdtr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteIdtr.asm
+END
+ReadCr0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadCr0.asm
+END
+Mwait.asm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/Mwait.asm
+END
+ReadCr2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadCr2.asm
+END
+ReadCr3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadCr3.asm
+END
+ReadCr4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadCr4.asm
+END
+CpuBreakpoint.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/CpuBreakpoint.S
+END
+ReadIdtr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadIdtr.asm
+END
+WriteCr0.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteCr0.asm
+END
+Thunk16.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/14037/trunk/edk2/MdePkg/Library/BaseLib/X64/Thunk16.asm
+END
+WriteCr2.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteCr2.asm
+END
+WriteCr3.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteCr3.asm
+END
+WriteCr4.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteCr4.asm
+END
+ReadFs.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadFs.asm
+END
+ReadMsr64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadMsr64.asm
+END
+CpuBreakpoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/CpuBreakpoint.c
+END
+ReadMsr64.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10596/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadMsr64.c
+END
+DisableCache.S
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/DisableCache.S
+END
+EnableCache.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/EnableCache.asm
+END
+EnableDisableInterrupts.asm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/EnableDisableInterrupts.asm
+END
+WriteLdtr.asm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteLdtr.asm
+END
+ReadTsc.asm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadTsc.asm
+END
+DisableCache.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/DisableCache.asm
+END
+WriteMsr64.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10596/trunk/edk2/MdePkg/Library/BaseLib/X64/WriteMsr64.c
+END
+FxSave.asm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/FxSave.asm
+END
+ReadEflags.asm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/X64/ReadEflags.asm
+END

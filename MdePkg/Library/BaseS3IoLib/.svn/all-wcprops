@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/BaseS3IoLib
+END
+S3IoLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/BaseS3IoLib/S3IoLib.c
+END
+BaseS3IoLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/12222/trunk/edk2/MdePkg/Library/BaseS3IoLib/BaseS3IoLib.inf
+END

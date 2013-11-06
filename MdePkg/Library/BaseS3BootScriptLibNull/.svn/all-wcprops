@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/12222/trunk/edk2/MdePkg/Library/BaseS3BootScriptLibNull
+END
+BootScriptLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/edk2/!svn/ver/12222/trunk/edk2/MdePkg/Library/BaseS3BootScriptLibNull/BootScriptLib.c
+END
+BaseS3BootScriptLibNull.inf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/edk2/!svn/ver/12222/trunk/edk2/MdePkg/Library/BaseS3BootScriptLibNull/BaseS3BootScriptLibNull.inf
+END

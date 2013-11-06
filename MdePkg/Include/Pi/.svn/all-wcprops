@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svnroot/edk2/!svn/ver/14004/trunk/edk2/MdePkg/Include/Pi
+END
+PiFirmwareVolume.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/12737/trunk/edk2/MdePkg/Include/Pi/PiFirmwareVolume.h
+END
+PiSmmCommunicationAcpiTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/edk2/!svn/ver/12724/trunk/edk2/MdePkg/Include/Pi/PiSmmCommunicationAcpiTable.h
+END
+PiBootMode.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/14004/trunk/edk2/MdePkg/Include/Pi/PiBootMode.h
+END
+PiHob.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/edk2/!svn/ver/12156/trunk/edk2/MdePkg/Include/Pi/PiHob.h
+END
+PiMultiPhase.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Pi/PiMultiPhase.h
+END
+PiSmmCis.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/edk2/!svn/ver/13654/trunk/edk2/MdePkg/Include/Pi/PiSmmCis.h
+END
+PiFirmwareFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/12582/trunk/edk2/MdePkg/Include/Pi/PiFirmwareFile.h
+END
+PiPeiCis.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/edk2/!svn/ver/12729/trunk/edk2/MdePkg/Include/Pi/PiPeiCis.h
+END
+PiDependency.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/11126/trunk/edk2/MdePkg/Include/Pi/PiDependency.h
+END
+PiS3BootScript.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Pi/PiS3BootScript.h
+END
+PiStatusCode.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/12702/trunk/edk2/MdePkg/Include/Pi/PiStatusCode.h
+END
+PiDxeCis.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/edk2/!svn/ver/12870/trunk/edk2/MdePkg/Include/Pi/PiDxeCis.h
+END

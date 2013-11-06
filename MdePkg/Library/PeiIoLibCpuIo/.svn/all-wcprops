@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/PeiIoLibCpuIo
+END
+IoLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiIoLibCpuIo/IoLib.c
+END
+IoHighLevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/PeiIoLibCpuIo/IoHighLevel.c
+END
+PeiIoLibCpuIo.inf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/12052/trunk/edk2/MdePkg/Library/PeiIoLibCpuIo/PeiIoLibCpuIo.inf
+END
+IoLibMmioBuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiIoLibCpuIo/IoLibMmioBuffer.c
+END

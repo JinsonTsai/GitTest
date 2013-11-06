@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/edk2/!svn/ver/14213/trunk/edk2/MdePkg/Include/Guid
+END
+Cper.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/edk2/!svn/ver/14213/trunk/edk2/MdePkg/Include/Guid/Cper.h
+END
+Gpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/Gpt.h
+END
+FileInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/FileInfo.h
+END
+SmBios.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/SmBios.h
+END
+SalSystemTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/SalSystemTable.h
+END
+EventGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/14009/trunk/edk2/MdePkg/Include/Guid/EventGroup.h
+END
+Mps.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/Mps.h
+END
+HiiPlatformSetupFormset.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/HiiPlatformSetupFormset.h
+END
+WinCertificate.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/13893/trunk/edk2/MdePkg/Include/Guid/WinCertificate.h
+END
+FileSystemInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/FileSystemInfo.h
+END
+FirmwareFileSystem2.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/FirmwareFileSystem2.h
+END
+HobList.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/HobList.h
+END
+FirmwareFileSystem3.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/FirmwareFileSystem3.h
+END
+HiiFormMapMethodGuid.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/HiiFormMapMethodGuid.h
+END
+Apriori.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/Apriori.h
+END
+GlobalVariable.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/GlobalVariable.h
+END
+AprioriFileName.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/AprioriFileName.h
+END
+MemoryAllocationHob.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/MemoryAllocationHob.h
+END
+Acpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/Acpi.h
+END
+HardwareErrorVariable.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/HardwareErrorVariable.h
+END
+DebugImageInfoTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/DebugImageInfoTable.h
+END
+PcAnsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/PcAnsi.h
+END
+MemoryOverwriteControl.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/MemoryOverwriteControl.h
+END
+ImageAuthentication.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/12488/trunk/edk2/MdePkg/Include/Guid/ImageAuthentication.h
+END
+EventLegacyBios.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/EventLegacyBios.h
+END
+DxeServices.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/DxeServices.h
+END
+MdePkgTokenSpace.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/MdePkgTokenSpace.h
+END
+StatusCodeDataTypeId.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/11616/trunk/edk2/MdePkg/Include/Guid/StatusCodeDataTypeId.h
+END
+FileSystemVolumeLabelInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/FileSystemVolumeLabelInfo.h
+END
+HiiKeyBoardLayout.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Guid/HiiKeyBoardLayout.h
+END

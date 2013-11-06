@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/X64
+END
+InterlockedCompareExchange32.asm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/X64/InterlockedCompareExchange32.asm
+END
+InterlockedCompareExchange32.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/X64/InterlockedCompareExchange32.c
+END
+InterlockedCompareExchange64.asm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/X64/InterlockedCompareExchange64.asm
+END
+InterlockedIncrement.asm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/X64/InterlockedIncrement.asm
+END
+InterlockedCompareExchange64.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/X64/InterlockedCompareExchange64.c
+END
+InterlockedDecrement.asm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/X64/InterlockedDecrement.asm
+END
+InterlockedIncrement.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/X64/InterlockedIncrement.c
+END
+InterlockedDecrement.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/X64/InterlockedDecrement.c
+END
+GccInline.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/X64/GccInline.c
+END

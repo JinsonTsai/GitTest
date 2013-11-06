@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/11400/trunk/edk2/MdePkg/Library/BaseDebugPrintErrorLevelLib
+END
+BaseDebugPrintErrorLevelLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/edk2/!svn/ver/11365/trunk/edk2/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib.inf
+END
+BaseDebugPrintErrorLevelLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/edk2/!svn/ver/11400/trunk/edk2/MdePkg/Library/BaseDebugPrintErrorLevelLib/BaseDebugPrintErrorLevelLib.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/10700/trunk/edk2/MdePkg/Library/SmmMemoryAllocationLib
+END
+MemoryAllocationLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/edk2/!svn/ver/10700/trunk/edk2/MdePkg/Library/SmmMemoryAllocationLib/MemoryAllocationLib.c
+END
+SmmMemoryAllocationLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svnroot/edk2/!svn/ver/10700/trunk/edk2/MdePkg/Library/SmmMemoryAllocationLib/SmmMemoryAllocationLib.inf
+END

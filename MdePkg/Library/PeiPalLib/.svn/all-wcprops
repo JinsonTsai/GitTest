@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiPalLib
+END
+PeiPalLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiPalLib/PeiPalLib.c
+END
+PeiPalLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiPalLib/PeiPalLib.inf
+END

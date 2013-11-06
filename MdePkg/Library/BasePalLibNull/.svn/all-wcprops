@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePalLibNull
+END
+BasePalLibNull.inf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePalLibNull/BasePalLibNull.inf
+END
+PalCall.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePalLibNull/PalCall.c
+END

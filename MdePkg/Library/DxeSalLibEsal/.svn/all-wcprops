@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/edk2/!svn/ver/11869/trunk/edk2/MdePkg/Library/DxeSalLibEsal
+END
+DxeSalLibEsal.inf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/11784/trunk/edk2/MdePkg/Library/DxeSalLibEsal/DxeSalLibEsal.inf
+END
+DxeSalLibEsal.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/11869/trunk/edk2/MdePkg/Library/DxeSalLibEsal/DxeSalLibEsal.c
+END

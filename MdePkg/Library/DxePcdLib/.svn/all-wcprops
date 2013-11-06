@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/edk2/!svn/ver/12052/trunk/edk2/MdePkg/Library/DxePcdLib
+END
+DxePcdLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/11182/trunk/edk2/MdePkg/Library/DxePcdLib/DxePcdLib.c
+END
+DxePcdLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/12052/trunk/edk2/MdePkg/Library/DxePcdLib/DxePcdLib.inf
+END

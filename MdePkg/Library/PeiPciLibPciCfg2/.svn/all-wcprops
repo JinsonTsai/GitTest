@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/PeiPciLibPciCfg2
+END
+PciLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/PeiPciLibPciCfg2/PciLib.c
+END
+PeiPciLibPciCfg2.inf
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/12052/trunk/edk2/MdePkg/Library/PeiPciLibPciCfg2/PeiPciLibPciCfg2.inf
+END

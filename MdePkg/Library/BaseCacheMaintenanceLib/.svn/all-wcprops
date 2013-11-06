@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseCacheMaintenanceLib
+END
+BaseCacheMaintenanceLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseCacheMaintenanceLib/BaseCacheMaintenanceLib.inf
+END
+IpfCache.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseCacheMaintenanceLib/IpfCache.c
+END
+ArmCache.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseCacheMaintenanceLib/ArmCache.c
+END
+X86Cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseCacheMaintenanceLib/X86Cache.c
+END
+EbcCache.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseCacheMaintenanceLib/EbcCache.c
+END

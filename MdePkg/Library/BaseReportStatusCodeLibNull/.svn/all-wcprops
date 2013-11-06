@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseReportStatusCodeLibNull
+END
+BaseReportStatusCodeLibNull.inf
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLibNull.inf
+END
+BaseReportStatusCodeLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseReportStatusCodeLibNull/BaseReportStatusCodeLib.c
+END

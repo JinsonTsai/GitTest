@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseCpuLib/Ia32
+END
+CpuSleep.asm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseCpuLib/Ia32/CpuSleep.asm
+END
+CpuSleep.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseCpuLib/Ia32/CpuSleep.c
+END
+CpuFlushTlbGcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseCpuLib/Ia32/CpuFlushTlbGcc.c
+END
+CpuFlushTlb.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseCpuLib/Ia32/CpuFlushTlb.asm
+END
+CpuFlushTlb.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseCpuLib/Ia32/CpuFlushTlb.c
+END
+CpuSleepGcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseCpuLib/Ia32/CpuSleepGcc.c
+END

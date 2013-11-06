@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/Ipf
+END
+Synchronization.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/Ipf/Synchronization.c
+END
+InterlockedCompareExchange32.s
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/Ipf/InterlockedCompareExchange32.s
+END
+InterlockedCompareExchange64.s
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSynchronizationLib/Ipf/InterlockedCompareExchange64.s
+END

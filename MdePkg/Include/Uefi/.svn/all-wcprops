@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svnroot/edk2/!svn/ver/13887/trunk/edk2/MdePkg/Include/Uefi
+END
+UefiInternalFormRepresentation.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/13887/trunk/edk2/MdePkg/Include/Uefi/UefiInternalFormRepresentation.h
+END
+UefiGpt.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/11543/trunk/edk2/MdePkg/Include/Uefi/UefiGpt.h
+END
+UefiSpec.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/13659/trunk/edk2/MdePkg/Include/Uefi/UefiSpec.h
+END
+UefiMultiPhase.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/12831/trunk/edk2/MdePkg/Include/Uefi/UefiMultiPhase.h
+END
+UefiBaseType.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/12025/trunk/edk2/MdePkg/Include/Uefi/UefiBaseType.h
+END
+UefiPxe.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Uefi/UefiPxe.h
+END
+UefiAcpiDataTable.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/12724/trunk/edk2/MdePkg/Include/Uefi/UefiAcpiDataTable.h
+END

@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svnroot/edk2/!svn/ver/14204/trunk/edk2/MdePkg/Include/Library
+END
+PeCoffLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/13716/trunk/edk2/MdePkg/Include/Library/PeCoffLib.h
+END
+UefiUsbLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/UefiUsbLib.h
+END
+PeCoffExtraActionLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/PeCoffExtraActionLib.h
+END
+DebugPrintErrorLevelLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/11400/trunk/edk2/MdePkg/Include/Library/DebugPrintErrorLevelLib.h
+END
+CacheMaintenanceLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/CacheMaintenanceLib.h
+END
+SmmServicesTableLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/SmmServicesTableLib.h
+END
+BaseLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/14204/trunk/edk2/MdePkg/Include/Library/BaseLib.h
+END
+PciLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Include/Library/PciLib.h
+END
+PciCf8Lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Include/Library/PciCf8Lib.h
+END
+S3IoLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Include/Library/S3IoLib.h
+END
+MemoryAllocationLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/MemoryAllocationLib.h
+END
+SalLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/SalLib.h
+END
+PostCodeLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/PostCodeLib.h
+END
+ResourcePublicationLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/ResourcePublicationLib.h
+END
+UefiApplicationEntryPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/UefiApplicationEntryPoint.h
+END
+PciExpressLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Include/Library/PciExpressLib.h
+END
+DebugLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/12933/trunk/edk2/MdePkg/Include/Library/DebugLib.h
+END
+UefiLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/13375/trunk/edk2/MdePkg/Include/Library/UefiLib.h
+END
+UefiBootServicesTableLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/UefiBootServicesTableLib.h
+END
+SmbusLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/SmbusLib.h
+END
+UefiRuntimeLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/UefiRuntimeLib.h
+END
+DxeServicesTableLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/DxeServicesTableLib.h
+END
+S3BootScriptLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/13979/trunk/edk2/MdePkg/Include/Library/S3BootScriptLib.h
+END
+DxeCoreEntryPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/DxeCoreEntryPoint.h
+END
+PeCoffGetEntryPointLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/PeCoffGetEntryPointLib.h
+END
+PerformanceLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/13214/trunk/edk2/MdePkg/Include/Library/PerformanceLib.h
+END
+BaseMemoryLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/BaseMemoryLib.h
+END
+PcdLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/PcdLib.h
+END
+IoLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Include/Library/IoLib.h
+END
+UefiRuntimeServicesTableLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/UefiRuntimeServicesTableLib.h
+END
+HobLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/13532/trunk/edk2/MdePkg/Include/Library/HobLib.h
+END
+UefiDriverEntryPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/UefiDriverEntryPoint.h
+END
+ReportStatusCodeLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/ReportStatusCodeLib.h
+END
+UefiScsiLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/11691/trunk/edk2/MdePkg/Include/Library/UefiScsiLib.h
+END
+DevicePathLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/13737/trunk/edk2/MdePkg/Include/Library/DevicePathLib.h
+END
+PalLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/PalLib.h
+END
+UefiDecompressLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/UefiDecompressLib.h
+END
+TimerLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/12206/trunk/edk2/MdePkg/Include/Library/TimerLib.h
+END
+PeiServicesLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/PeiServicesLib.h
+END
+ExtractGuidedSectionLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/11002/trunk/edk2/MdePkg/Include/Library/ExtractGuidedSectionLib.h
+END
+S3PciLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Include/Library/S3PciLib.h
+END
+DxeServicesLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/13199/trunk/edk2/MdePkg/Include/Library/DxeServicesLib.h
+END
+SerialPortLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/SerialPortLib.h
+END
+SmmPeriodicSmiLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/11322/trunk/edk2/MdePkg/Include/Library/SmmPeriodicSmiLib.h
+END
+S3StallLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/12222/trunk/edk2/MdePkg/Include/Library/S3StallLib.h
+END
+CpuLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/CpuLib.h
+END
+PeiServicesTablePointerLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/PeiServicesTablePointerLib.h
+END
+PeiCoreEntryPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/PeiCoreEntryPoint.h
+END
+PrintLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/12081/trunk/edk2/MdePkg/Include/Library/PrintLib.h
+END
+SmmLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/SmmLib.h
+END
+PciSegmentLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Include/Library/PciSegmentLib.h
+END
+PeimEntryPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10403/trunk/edk2/MdePkg/Include/Library/PeimEntryPoint.h
+END
+S3SmbusLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/12222/trunk/edk2/MdePkg/Include/Library/S3SmbusLib.h
+END
+ExtendedSalLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/11784/trunk/edk2/MdePkg/Include/Library/ExtendedSalLib.h
+END
+SynchronizationLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/13086/trunk/edk2/MdePkg/Include/Library/SynchronizationLib.h
+END

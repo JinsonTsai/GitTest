@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/12052/trunk/edk2/MdePkg/Library/PeiSmbusLibSmbus2Ppi
+END
+PeiSmbusLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10615/trunk/edk2/MdePkg/Library/PeiSmbusLibSmbus2Ppi/PeiSmbusLib.c
+END
+SmbusLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10615/trunk/edk2/MdePkg/Library/PeiSmbusLibSmbus2Ppi/SmbusLib.c
+END
+InternalSmbusLib.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/edk2/!svn/ver/10615/trunk/edk2/MdePkg/Library/PeiSmbusLibSmbus2Ppi/InternalSmbusLib.h
+END
+PeiSmbusLibSmbus2Ppi.inf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/edk2/!svn/ver/12052/trunk/edk2/MdePkg/Library/PeiSmbusLibSmbus2Ppi/PeiSmbusLibSmbus2Ppi.inf
+END

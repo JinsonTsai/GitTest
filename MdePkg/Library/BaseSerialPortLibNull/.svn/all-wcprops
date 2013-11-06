@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/11207/trunk/edk2/MdePkg/Library/BaseSerialPortLibNull
+END
+BaseSerialPortLibNull.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/edk2/!svn/ver/11207/trunk/edk2/MdePkg/Library/BaseSerialPortLibNull/BaseSerialPortLibNull.c
+END
+BaseSerialPortLibNull.inf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseSerialPortLibNull/BaseSerialPortLibNull.inf
+END

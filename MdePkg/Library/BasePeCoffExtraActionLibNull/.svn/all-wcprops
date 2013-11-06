@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePeCoffExtraActionLibNull
+END
+BasePeCoffExtraActionLibNull.inf
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePeCoffExtraActionLibNull/BasePeCoffExtraActionLibNull.inf
+END
+PeCoffExtraActionLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePeCoffExtraActionLibNull/PeCoffExtraActionLib.c
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/edk2/!svn/ver/12035/trunk/edk2/MdePkg/Library/BaseCpuLib
+END
+BaseCpuLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseCpuLib/BaseCpuLib.inf
+END

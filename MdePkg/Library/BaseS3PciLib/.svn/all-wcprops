@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/BaseS3PciLib
+END
+S3PciLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/BaseS3PciLib/S3PciLib.c
+END
+BaseS3PciLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/12222/trunk/edk2/MdePkg/Library/BaseS3PciLib/BaseS3PciLib.inf
+END

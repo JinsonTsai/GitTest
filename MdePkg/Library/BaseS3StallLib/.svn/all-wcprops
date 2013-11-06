@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/12222/trunk/edk2/MdePkg/Library/BaseS3StallLib
+END
+BaseS3StallLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/12222/trunk/edk2/MdePkg/Library/BaseS3StallLib/BaseS3StallLib.inf
+END
+S3StallLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/12222/trunk/edk2/MdePkg/Library/BaseS3StallLib/S3StallLib.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/edk2/!svn/ver/10615/trunk/edk2/MdePkg/Library/PeiServicesLib
+END
+PeiServicesLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiServicesLib/PeiServicesLib.inf
+END
+PeiServicesLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10615/trunk/edk2/MdePkg/Library/PeiServicesLib/PeiServicesLib.c
+END

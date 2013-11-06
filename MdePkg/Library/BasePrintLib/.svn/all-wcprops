@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/edk2/!svn/ver/14395/trunk/edk2/MdePkg/Library/BasePrintLib
+END
+PrintLibInternal.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/14395/trunk/edk2/MdePkg/Library/BasePrintLib/PrintLibInternal.c
+END
+PrintLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/12979/trunk/edk2/MdePkg/Library/BasePrintLib/PrintLib.c
+END
+PrintLibInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/12081/trunk/edk2/MdePkg/Library/BasePrintLib/PrintLibInternal.h
+END
+BasePrintLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePrintLib/BasePrintLib.inf
+END

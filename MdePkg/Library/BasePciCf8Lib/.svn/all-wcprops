@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/BasePciCf8Lib
+END
+PciCf8Lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/BasePciCf8Lib/PciCf8Lib.c
+END
+BasePciCf8Lib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePciCf8Lib/BasePciCf8Lib.inf
+END

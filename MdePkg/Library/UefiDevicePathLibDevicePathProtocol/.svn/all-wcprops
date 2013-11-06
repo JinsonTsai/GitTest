@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/edk2/!svn/ver/13737/trunk/edk2/MdePkg/Library/UefiDevicePathLibDevicePathProtocol
+END
+UefiDevicePathLibDevicePathProtocol.inf
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svnroot/edk2/!svn/ver/13737/trunk/edk2/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLibDevicePathProtocol.inf
+END
+UefiDevicePathLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/edk2/!svn/ver/13737/trunk/edk2/MdePkg/Library/UefiDevicePathLibDevicePathProtocol/UefiDevicePathLib.c
+END

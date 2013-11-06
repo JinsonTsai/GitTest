@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/edk2/!svn/ver/12781/trunk/edk2/MdePkg/Library/BaseLib/Arm
+END
+GetInterruptsState.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/edk2/!svn/ver/11289/trunk/edk2/MdePkg/Library/BaseLib/Arm/GetInterruptsState.S
+END
+SetJumpLongJump.asm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseLib/Arm/SetJumpLongJump.asm
+END
+DisableInterrupts.asm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseLib/Arm/DisableInterrupts.asm
+END
+CpuBreakpoint.asm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseLib/Arm/CpuBreakpoint.asm
+END
+Unaligned.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/Arm/Unaligned.c
+END
+EnableInterrupts.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/11289/trunk/edk2/MdePkg/Library/BaseLib/Arm/EnableInterrupts.S
+END
+SwitchStack.S
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/edk2/!svn/ver/12781/trunk/edk2/MdePkg/Library/BaseLib/Arm/SwitchStack.S
+END
+GetInterruptsState.asm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseLib/Arm/GetInterruptsState.asm
+END
+SetJumpLongJump.S
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/11289/trunk/edk2/MdePkg/Library/BaseLib/Arm/SetJumpLongJump.S
+END
+Math64.S
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/11289/trunk/edk2/MdePkg/Library/BaseLib/Arm/Math64.S
+END
+DisableInterrupts.S
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/11289/trunk/edk2/MdePkg/Library/BaseLib/Arm/DisableInterrupts.S
+END
+CpuPause.asm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseLib/Arm/CpuPause.asm
+END
+InternalSwitchStack.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseLib/Arm/InternalSwitchStack.c
+END
+EnableInterrupts.asm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseLib/Arm/EnableInterrupts.asm
+END
+SwitchStack.asm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseLib/Arm/SwitchStack.asm
+END
+CpuBreakpoint.S
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/edk2/!svn/ver/11289/trunk/edk2/MdePkg/Library/BaseLib/Arm/CpuBreakpoint.S
+END

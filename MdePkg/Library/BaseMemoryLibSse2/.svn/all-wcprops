@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2
+END
+ScanMem64Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/ScanMem64Wrapper.c
+END
+MemLibGuid.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/MemLibGuid.c
+END
+ZeroMemWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/ZeroMemWrapper.c
+END
+SetMem32Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/SetMem32Wrapper.c
+END
+BaseMemoryLibSse2.inf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/BaseMemoryLibSse2.inf
+END
+SetMem16Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/SetMem16Wrapper.c
+END
+SetMem64Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/SetMem64Wrapper.c
+END
+CompareMemWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/CompareMemWrapper.c
+END
+ScanMem32Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/ScanMem32Wrapper.c
+END
+CopyMemWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/CopyMemWrapper.c
+END
+MemLibInternals.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/MemLibInternals.h
+END
+ScanMem16Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/ScanMem16Wrapper.c
+END
+SetMemWrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/SetMemWrapper.c
+END
+ScanMem8Wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseMemoryLibSse2/ScanMem8Wrapper.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePostCodeLibPort80
+END
+PostCode.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePostCodeLibPort80/PostCode.c
+END
+BasePostCodeLibPort80.inf
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BasePostCodeLibPort80/BasePostCodeLibPort80.inf
+END

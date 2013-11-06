@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/SmmPciLibPciRootBridgeIo
+END
+SmmPciLibPciRootBridgeIo.inf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/edk2/!svn/ver/12052/trunk/edk2/MdePkg/Library/SmmPciLibPciRootBridgeIo/SmmPciLibPciRootBridgeIo.inf
+END
+PciLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/SmmPciLibPciRootBridgeIo/PciLib.c
+END

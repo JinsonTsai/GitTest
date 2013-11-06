@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiServicesTablePointerLibKr7
+END
+PeiServicesTablePointerLibKr7.inf
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiServicesTablePointerLibKr7/PeiServicesTablePointerLibKr7.inf
+END
+PeiServicesTablePointer.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiServicesTablePointerLibKr7/PeiServicesTablePointer.c
+END

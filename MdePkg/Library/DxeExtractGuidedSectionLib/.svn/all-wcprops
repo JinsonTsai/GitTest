@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/13930/trunk/edk2/MdePkg/Library/DxeExtractGuidedSectionLib
+END
+DxeExtractGuidedSectionLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/edk2/!svn/ver/13930/trunk/edk2/MdePkg/Library/DxeExtractGuidedSectionLib/DxeExtractGuidedSectionLib.inf
+END
+DxeExtractGuidedSectionLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/edk2/!svn/ver/13930/trunk/edk2/MdePkg/Library/DxeExtractGuidedSectionLib/DxeExtractGuidedSectionLib.c
+END

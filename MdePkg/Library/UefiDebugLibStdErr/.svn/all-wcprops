@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/13691/trunk/edk2/MdePkg/Library/UefiDebugLibStdErr
+END
+UefiDebugLibStdErr.inf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/edk2/!svn/ver/11365/trunk/edk2/MdePkg/Library/UefiDebugLibStdErr/UefiDebugLibStdErr.inf
+END
+DebugLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/13691/trunk/edk2/MdePkg/Library/UefiDebugLibStdErr/DebugLib.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/DxeIoLibEsal
+END
+DxeIoLibEsal.inf
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/11784/trunk/edk2/MdePkg/Library/DxeIoLibEsal/DxeIoLibEsal.inf
+END
+IoLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/11869/trunk/edk2/MdePkg/Library/DxeIoLibEsal/IoLib.c
+END
+IoHighLevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/DxeIoLibEsal/IoHighLevel.c
+END
+DxeIoLibEsalInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/edk2/!svn/ver/11784/trunk/edk2/MdePkg/Library/DxeIoLibEsal/DxeIoLibEsalInternal.h
+END
+IoLibMmioBuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/edk2/!svn/ver/11784/trunk/edk2/MdePkg/Library/DxeIoLibEsal/IoLibMmioBuffer.c
+END

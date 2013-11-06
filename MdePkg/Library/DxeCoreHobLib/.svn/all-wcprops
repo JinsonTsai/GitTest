@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svnroot/edk2/!svn/ver/13532/trunk/edk2/MdePkg/Library/DxeCoreHobLib
+END
+HobLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/edk2/!svn/ver/13532/trunk/edk2/MdePkg/Library/DxeCoreHobLib/HobLib.c
+END
+DxeCoreHobLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/DxeCoreHobLib/DxeCoreHobLib.inf
+END

@@ -1,0 +1,77 @@
+10
+
+dir
+14397
+https://edk2.svn.sourceforge.net/svnroot/edk2/trunk/edk2/MdePkg/Library/BaseCpuLib
+https://edk2.svn.sourceforge.net/svnroot/edk2
+
+
+
+2011-07-20T17:47:44.549149Z
+12035
+andrewfish
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6f19259b-4bc3-4df7-8a09-765794883524
+
+Arm
+dir
+
+X64
+dir
+
+BaseCpuLib.inf
+file
+
+
+
+
+2012-09-02T06:02:05.000000Z
+b1a8fc9f077753bd5880479df6c9e6f4
+2010-06-11T00:02:51.967410Z
+10572
+myronporter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1792
+
+Ebc
+dir
+
+Ia32
+dir
+
+Ipf
+dir
+

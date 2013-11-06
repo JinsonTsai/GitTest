@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/13930/trunk/edk2/MdePkg/Library/PeiExtractGuidedSectionLib
+END
+PeiExtractGuidedSectionLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/PeiExtractGuidedSectionLib/PeiExtractGuidedSectionLib.inf
+END
+PeiExtractGuidedSectionLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svnroot/edk2/!svn/ver/13930/trunk/edk2/MdePkg/Library/PeiExtractGuidedSectionLib/PeiExtractGuidedSectionLib.c
+END

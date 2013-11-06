@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/10615/trunk/edk2/MdePkg/Library/DxeCoreEntryPoint
+END
+DxeCoreEntryPoint.inf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/DxeCoreEntryPoint/DxeCoreEntryPoint.inf
+END
+DxeCoreEntryPoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svnroot/edk2/!svn/ver/10615/trunk/edk2/MdePkg/Library/DxeCoreEntryPoint/DxeCoreEntryPoint.c
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic
+END
+BaseIoLibIntrinsicInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsicInternal.h
+END
+IoLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLib.c
+END
+IoLibArm.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLibArm.c
+END
+IoHighLevel.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/edk2/!svn/ver/14019/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoHighLevel.c
+END
+IoLibMsc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLibMsc.c
+END
+BaseIoLibIntrinsic.inf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic/BaseIoLibIntrinsic.inf
+END
+IoLibMmioBuffer.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/edk2/!svn/ver/10604/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLibMmioBuffer.c
+END
+IoLibGcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLibGcc.c
+END
+IoLibIcc.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLibIcc.c
+END
+IoLibIpf.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/edk2/!svn/ver/10572/trunk/edk2/MdePkg/Library/BaseIoLibIntrinsic/IoLibIpf.c
+END

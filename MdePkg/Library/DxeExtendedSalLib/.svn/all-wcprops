@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/edk2/!svn/ver/12979/trunk/edk2/MdePkg/Library/DxeExtendedSalLib
+END
+DxeExtendedSalLib.inf
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/edk2/!svn/ver/12052/trunk/edk2/MdePkg/Library/DxeExtendedSalLib/DxeExtendedSalLib.inf
+END
+ExtendedSalLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/12979/trunk/edk2/MdePkg/Library/DxeExtendedSalLib/ExtendedSalLib.c
+END

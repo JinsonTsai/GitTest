@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/11560/trunk/edk2/MdePkg/Library/UefiDriverEntryPoint
+END
+DriverEntryPoint.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/edk2/!svn/ver/11560/trunk/edk2/MdePkg/Library/UefiDriverEntryPoint/DriverEntryPoint.c
+END
+UefiDriverEntryPoint.inf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/edk2/!svn/ver/10954/trunk/edk2/MdePkg/Library/UefiDriverEntryPoint/UefiDriverEntryPoint.inf
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/edk2/!svn/ver/12558/trunk/edk2/MdePkg/Library/SecPeiDxeTimerLibCpu
+END
+SecPeiDxeTimerLibCpu.inf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/edk2/!svn/ver/12558/trunk/edk2/MdePkg/Library/SecPeiDxeTimerLibCpu/SecPeiDxeTimerLibCpu.inf
+END
+IpfTimerLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/12206/trunk/edk2/MdePkg/Library/SecPeiDxeTimerLibCpu/IpfTimerLib.c
+END
+X86TimerLib.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svnroot/edk2/!svn/ver/12206/trunk/edk2/MdePkg/Library/SecPeiDxeTimerLibCpu/X86TimerLib.c
+END
